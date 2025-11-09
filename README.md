@@ -41,7 +41,7 @@ A total of **125 responses** were collected, and a **stratified random sampling*
 ## 📈 Results Visualization
 
 A Tableau dashboard was created to visualize the findings interactively.
-🔗 **[https://public.tableau.com/app/profile/azalia.fitriana/viz/DashboardSurvei_17314179519590/Dashboard1?publish=yes](#)**
+🔗 **[https://public.tableau.com/app/profile/azalia.fitriana/viz/DashboardSurvei_17314179519590/Dashboard1?publish=yes]**
 
 ## 🧩 Tools & Technologies
 
